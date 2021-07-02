@@ -1,6 +1,10 @@
-### Hey there! 👋
+<p align="center">
+  <img src ="https://user-images.githubusercontent.com/54548478/124333686-d22a1180-db49-11eb-8690-3bcecc097d17.PNG" width = 1000/>
+</p> 
 
-Welcome to my page. I'm Zeyad. I have a passion for learning and sharing my knowledge with others in order to develop cool things. 
+# Hey there! 👋
+
+I'm Zeyad. I have a passion for learning and sharing my knowledge with others in order to develop cool things. 
 
 - 🔭 I’m currently working on python and C++ utility scripts for performing some tasks. I love working with microcontrollers to automate chores and to create alternative, safer IoT devices. I'm also creating a few text-based games for fun. 
 - 🌱 I’m currently learning advanced data structures and exploring sorting and searching algorithms 
