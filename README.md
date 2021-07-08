@@ -11,6 +11,7 @@ I'm Zeyad. I have a passion for learning and sharing my knowledge with others in
 - 🤔 I’m looking for help with developing applications for both Linux and Windows
 - 📫 If you have any tips/suggestions, please let me know!
 
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 <!--
 **Zizo001/Zizo001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
